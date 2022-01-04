@@ -1,9 +1,12 @@
+package junit;
+
+import junit.User;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class UserTest {
+public class ExceptionTest {
     User user;
 
     @BeforeEach

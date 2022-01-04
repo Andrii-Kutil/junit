@@ -1,3 +1,5 @@
+package junit;
+
 public class Service {
 
     public static boolean requestService() throws InterruptedException {
